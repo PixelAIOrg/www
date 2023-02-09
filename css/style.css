@@ -1378,7 +1378,7 @@ a:hover
 .news-bg-shape
 {
 	position: absolute;
-	bottom: -75%;
+	bottom: -30%;
 	right: 10%;
 	z-index: -1;
 }
