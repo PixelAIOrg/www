@@ -1552,7 +1552,7 @@ a:hover
 {
 	position: absolute;
 	left: 13%;
-	top: 30%;
+	top: 17%;
 	z-index: -1;
 }
 
@@ -1567,7 +1567,7 @@ a:hover
 .about-bg-2
 {
 	position: absolute;
-	top: -63%;
+	bottom: 10%;
 	right: 35%;
 	z-index: -1;
 }
@@ -1599,8 +1599,8 @@ a:hover
 .about-bg-4
 {
 	position: absolute;
-	bottom: -23%;
-	left: 15%;
+	bottom: -13%;
+	right: 13%;
 	z-index: -1;
 }
 
@@ -1615,8 +1615,8 @@ a:hover
 .about-bg-5
 {
 	position: absolute;
-	bottom: -50%;
-	right: 15%;
+	bottom: -35%;
+	right: 30%;
 	z-index: -1;
 }
 
