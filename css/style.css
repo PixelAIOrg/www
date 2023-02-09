@@ -1567,7 +1567,7 @@ a:hover
 .about-bg-2
 {
 	position: absolute;
-	top: 43%;
+	top: -3%;
 	right: 35%;
 	z-index: -1;
 }
