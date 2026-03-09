@@ -6,27 +6,32 @@
             http://www.sitemaps.org/schemas/sitemap/0.9/sitemap.xsd">
 <url>
   <loc>https://pixelai.org/</loc>
-  <lastmod>2023-02-09T12:11:30+00:00</lastmod>
+  <lastmod>2026-03-09T00:00:00+00:00</lastmod>
   <priority>1.00</priority>
 </url>
 <url>
   <loc>https://pixelai.org/index.html</loc>
-  <lastmod>2023-02-09T12:11:30+00:00</lastmod>
+  <lastmod>2026-03-09T00:00:00+00:00</lastmod>
   <priority>0.80</priority>
 </url>
 <url>
   <loc>https://pixelai.org/about.html</loc>
-  <lastmod>2023-02-09T12:11:30+00:00</lastmod>
+  <lastmod>2026-03-09T00:00:00+00:00</lastmod>
   <priority>0.80</priority>
 </url>
 <url>
   <loc>https://pixelai.org/services.html</loc>
-  <lastmod>2023-02-09T12:11:30+00:00</lastmod>
+  <lastmod>2026-03-09T00:00:00+00:00</lastmod>
   <priority>0.80</priority>
 </url>
 <url>
   <loc>https://pixelai.org/contact.html</loc>
-  <lastmod>2023-02-09T12:11:30+00:00</lastmod>
+  <lastmod>2026-03-09T00:00:00+00:00</lastmod>
+  <priority>0.80</priority>
+</url>
+<url>
+  <loc>https://pixelai.org/llm_challenges.html</loc>
+  <lastmod>2026-03-09T00:00:00+00:00</lastmod>
   <priority>0.80</priority>
 </url>
 </urlset>

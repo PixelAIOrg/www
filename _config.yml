@@ -1,1 +1,3 @@
-include: [".well-known"] 
+# Jekyll configuration
+exclude:
+  - README.md
