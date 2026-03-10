@@ -998,7 +998,7 @@ section {
   gap: 1.5rem;
 }
 
-.footer__logo img { height: 28px; width: auto; opacity: 0.8; }
+.footer__logo img { height: 18px; width: auto; opacity: 0.8; }
 
 .footer__links {
   display: flex;
