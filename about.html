@@ -26,13 +26,23 @@
 				<img src="images/pixelailogo.svg" alt="PIXEL AI">
 			</a>
 			<div class="nav__links">
-				<a href="index.html">Home</a>
-				<a href="index.html#explore">Explore</a>
-				<a href="about.html">About</a>
-				<a href="services.html">Services</a>
-				<a href="index.html#overview">Overview</a>
-				<a href="index.html#pricing">Pricing</a>
-				<a href="contact.html">Contact</a>
+				<div class="nav__item">
+					<a href="index.html#explore">Explore</a>
+				</div>
+				<div class="nav__item">
+					<a href="index.html#overview" style="cursor: default;" onclick="event.preventDefault()">Overview ▾</a>
+					<div class="nav__dropdown">
+						<a href="services.html">Services</a>
+						<a href="index.html#pricing">Pricing</a>
+					</div>
+				</div>
+				<div class="nav__item">
+					<a href="about.html" style="cursor: default;" onclick="event.preventDefault()">About ▾</a>
+					<div class="nav__dropdown">
+						<a href="contact.html">Contact</a>
+						<a href="https://x.com/messages/compose?recipient_id=2919924992&text=(Via PixelAI.org DM Now)%0A%0AYour message here" class="dm-link">&#120143; DM Now</a>
+					</div>
+				</div>
 			</div>
 			<a href="https://x.com/messages/compose?recipient_id=2919924992&text=(Via PixelAI.org DM Now)%0A%0AYour message here" class="nav__cta">
 				&#120143; DM Now
@@ -45,13 +55,12 @@
 
 	<!-- Mobile Nav -->
 	<div class="nav__mobile">
-		<a href="index.html">Home</a>
 		<a href="index.html#explore">Explore</a>
-		<a href="about.html">About</a>
-		<a href="services.html">Services</a>
 		<a href="index.html#overview">Overview</a>
-		<a href="index.html#pricing">Pricing</a>
-		<a href="contact.html">Contact</a>
+		<a href="services.html" style="padding-left: 1rem;">Services</a>
+		<a href="index.html#pricing" style="padding-left: 1rem;">Pricing</a>
+		<a href="about.html">About</a>
+		<a href="contact.html" style="padding-left: 1rem;">Contact</a>
 		<a href="https://x.com/messages/compose?recipient_id=2919924992&text=(Via PixelAI.org DM Now)%0A%0AYour message here">&#120143; DM Now</a>
 	</div>
 
